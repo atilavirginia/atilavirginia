@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Átila Souza
+- 👋 Hi, welcome to my Portfolio!
 - 👀 I’m interested in sharing my knowledge to the world
 - 🌱 I’m currently learning JavaScript, HTML, CSS and React Native
 
